@@ -1,4 +1,4 @@
-# Google Sheets Dashboards — Mini Portfolio
+# Google Sheets Dashboards | Mini Portfolio
 
 A tiny hub with two live dashboards I built in **Google Sheets**.  
 
