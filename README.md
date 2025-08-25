@@ -1,9 +1,8 @@
 # Google Sheets Dashboards — Mini Portfolio
 
 A tiny hub with two live dashboards I built in **Google Sheets**.  
-Open them, duplicate them, and poke around the formulas.
 
-> Tip: sharing is set to “Anyone with the link — Viewer”. Use **Make a copy** to get your own editable version.
+> Tip: sharing is set to “Anyone with the link Viewer”. Use **Make a copy** to get your own editable version.
 
 ___
 
@@ -18,4 +17,4 @@ ___
 - **Make a copy:** https://docs.google.com/spreadsheets/d/1TDwMcXpHrC0i3prNCAPHfjRmCyXzWsgmPOHTT088Cqw/copy  
 - **Preview (embed-friendly):** https://docs.google.com/spreadsheets/d/1TDwMcXpHrC0i3prNCAPHfjRmCyXzWsgmPOHTT088Cqw/preview?gid=538837562
 
-**Just open, copy, and go — no walkthrough needed.**
+**Just open, copy, and go, no walkthrough needed.**
