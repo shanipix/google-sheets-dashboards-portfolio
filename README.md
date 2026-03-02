@@ -17,4 +17,10 @@ ___
 - **Make a copy:** https://docs.google.com/spreadsheets/d/1TDwMcXpHrC0i3prNCAPHfjRmCyXzWsgmPOHTT088Cqw/copy  
 - **Preview (embed-friendly):** https://docs.google.com/spreadsheets/d/1TDwMcXpHrC0i3prNCAPHfjRmCyXzWsgmPOHTT088Cqw/preview?gid=538837562
 
+## 🔸 2026 Leave Planner
+- **View (specific tab):** https://docs.google.com/spreadsheets/d/1PPBaf2707fmpcy8CIckW7msNHXrH36A0IneTawAnCxk/view
+- **Make a copy:** https://docs.google.com/spreadsheets/d/1PPBaf2707fmpcy8CIckW7msNHXrH36A0IneTawAnCxk/copy
+- **Preview (embed-friendly):** https://docs.google.com/spreadsheets/d/1PPBaf2707fmpcy8CIckW7msNHXrH36A0IneTawAnCxk/preview
+
+
 **Just open, copy, and go, no walkthrough needed.**
