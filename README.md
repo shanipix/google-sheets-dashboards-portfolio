@@ -7,6 +7,11 @@ A tiny hub with two live dashboards I built in **Google Sheets**.
 ___
 
 
+## 🔸 2026 Leave Planner
+- **View (specific tab):** https://docs.google.com/spreadsheets/d/1PPBaf2707fmpcy8CIckW7msNHXrH36A0IneTawAnCxk/view
+- **Make a copy:** https://docs.google.com/spreadsheets/d/1PPBaf2707fmpcy8CIckW7msNHXrH36A0IneTawAnCxk/copy
+- **Preview (embed-friendly):** https://docs.google.com/spreadsheets/d/1PPBaf2707fmpcy8CIckW7msNHXrH36A0IneTawAnCxk/preview
+
 ## 🔸 Personal Budget Tracker
 - **View:** https://docs.google.com/spreadsheets/d/1XEs1eORsgEzZ9TcpCJlFf7vBYvwM9M-qr2DDG0BIKHM/view  
 - **Make a copy:** https://docs.google.com/spreadsheets/d/1XEs1eORsgEzZ9TcpCJlFf7vBYvwM9M-qr2DDG0BIKHM/copy  
@@ -16,11 +21,6 @@ ___
 - **View (specific tab):** https://docs.google.com/spreadsheets/d/1TDwMcXpHrC0i3prNCAPHfjRmCyXzWsgmPOHTT088Cqw/view?gid=538837562  
 - **Make a copy:** https://docs.google.com/spreadsheets/d/1TDwMcXpHrC0i3prNCAPHfjRmCyXzWsgmPOHTT088Cqw/copy  
 - **Preview (embed-friendly):** https://docs.google.com/spreadsheets/d/1TDwMcXpHrC0i3prNCAPHfjRmCyXzWsgmPOHTT088Cqw/preview?gid=538837562
-
-## 🔸 2026 Leave Planner
-- **View (specific tab):** https://docs.google.com/spreadsheets/d/1PPBaf2707fmpcy8CIckW7msNHXrH36A0IneTawAnCxk/view
-- **Make a copy:** https://docs.google.com/spreadsheets/d/1PPBaf2707fmpcy8CIckW7msNHXrH36A0IneTawAnCxk/copy
-- **Preview (embed-friendly):** https://docs.google.com/spreadsheets/d/1PPBaf2707fmpcy8CIckW7msNHXrH36A0IneTawAnCxk/preview
 
 
 **Just open, copy, and go, no walkthrough needed.**
