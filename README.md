@@ -24,3 +24,6 @@ ___
 
 
 **Just open, copy, and go, no walkthrough needed.**
+
+
+# 💼 Need a custom version or have questions? Let's connect on LinkedIn → https://www.linkedin.com/in/shanice-d-559b49a5/
